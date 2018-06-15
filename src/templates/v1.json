@@ -1,0 +1,205 @@
+{
+  "heading": "{{{consent.page.title}}}",
+  "image": {
+    "cssName": "security-and-privacy-img hidden-xs"
+  },
+  "description": "{{{consent.page.description}}}",
+  "sections": [
+    {
+      "id": "who_we_are",
+      "title": "{{{consent.page.who.we.are.title}}}",
+      "description": "{{{consent.page.who.we.are.desc}}}",
+      "contents": [
+        {
+          "paragraph": "{{{consent.page.who.we.are.content}}}"
+        }
+      ]
+    },
+    {
+      "id": "why_we_collect_your_data",
+      "title": "{{{consent.page.why.we.collect.data.title}}}",
+      "description": "{{{consent.page.why.we.collect.data.desc}}}",
+      "contents": [
+        {
+          "paragraph": "{{{consent.page.why.we.collect.data.content.p1}}}"
+        },
+        {
+          "paragraph": "{{{consent.page.why.we.collect.data.content.p2}}}"
+        },
+        {
+          "paragraph": "{{{consent.page.why.we.collect.data.content.p3}}}"
+        },
+        {
+          "paragraph": "{{{consent.page.why.we.collect.data.content.p4}}}"
+        },
+        {
+          "paragraph": "{{{consent.page.why.we.collect.data.content.p5}}}"
+        },
+        {
+          "table": {
+            "titles": [
+              "{{{consent.page.why.we.collect.data.table.column1.title}}}",
+              "{{{consent.page.why.we.collect.data.table.column2.title}}}"
+            ],
+            "rows": [
+              {
+                "row": [
+                  "{{{consent.page.why.we.collect.data.table.row1}}}",
+                  "{{{consent.page.why.we.collect.data.table.performance.of.contract}}}"
+                ]
+              },
+              {
+                "row": [
+                  "{{{consent.page.why.we.collect.data.table.row2}}}",
+                  "{{{consent.page.why.we.collect.data.table.legal.obligation}}}"
+                ]
+              },
+              {
+                "row": [
+                  "{{{consent.page.why.we.collect.data.table.row3}}}",
+                  "{{{consent.page.why.we.collect.data.table.legal.obligation}}}"
+                ]
+              },
+              {
+                "row": [
+                  "{{{consent.page.why.we.collect.data.table.row4}}}",
+                  "{{{consent.page.why.we.collect.data.table.legal.obligation}}}"
+                ]
+              },
+              {
+                "row": [
+                  "{{{consent.page.why.we.collect.data.table.row5}}}",
+                  "{{{consent.page.why.we.collect.data.table.legitimate.interest}}}"
+                ]
+              },
+              {
+                "row": [
+                  "{{{consent.page.why.we.collect.data.table.row6}}}",
+                  "{{{consent.page.why.we.collect.data.table.legitimate.interest}}}"
+                ]
+              },
+              {
+                "row": [
+                  "{{{consent.page.why.we.collect.data.table.row7}}}",
+                  "{{{consent.page.why.we.collect.data.table.legitimate.interest}}}"
+                ]
+              },
+              {
+                "row": [
+                  "{{{consent.page.why.we.collect.data.table.row8}}}",
+                  "{{{consent.page.why.we.collect.data.table.legitimate.interest}}}"
+                ]
+              },
+              {
+                "row": [
+                  "{{{consent.page.why.we.collect.data.table.row9}}}",
+                  "{{{consent.page.why.we.collect.data.table.legitimate.interest}}}"
+                ]
+              },
+              {
+                "row": [
+                  "{{{consent.page.why.we.collect.data.table.row10}}}",
+                  "{{{consent.page.why.we.collect.data.table.consent}}}"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "what_data_we_collect",
+      "title": "{{{consent.page.what.data.collect.title}}}",
+      "description": "{{{consent.page.what.data.collect.desc}}}",
+      "contents": [
+        {
+          "paragraph": "{{{consent.page.what.data.collect.content.p1}}}"
+        },
+        {
+          "paragraph": "{{{consent.page.what.data.collect.content.p2}}}"
+        },
+        {
+          "paragraph": "{{{consent.page.what.data.collect.content.p3}}}"
+        }
+      ]
+    },
+    {
+      "id": "what_data_we_receive",
+      "title": "{{{consent.page.what.data.we.receive.title}}}",
+      "description": "{{{consent.page.what.data.we.receive.desc}}}",
+      "contents": [
+        {
+          "paragraph": "{{{consent.page.what.data.we.receive.content}}}"
+        }
+      ]
+    },
+    {
+      "id": "how_we_share_your_information",
+      "title": "{{{consent.page.how.we.share.data.title}}}",
+      "description": "{{{consent.page.how.we.share.data.desc}}}",
+      "contents": [
+        {
+          "paragraph": "{{{consent.page.how.we.share.data.content.p1}}}"
+        },
+        {
+          "paragraph": "{{{consent.page.how.we.share.data.content.p2}}}"
+        },
+        {
+          "paragraph": "{{{consent.page.how.we.share.data.content.p3}}}"
+        }
+      ]
+    },
+    {
+      "id": "how_long_we_keep_your_data",
+      "title": "{{{consent.page.how.long.we.keep.info.title}}}",
+      "description": "{{{consent.page.how.long.we.keep.info.desc}}}",
+      "contents": [
+        {
+          "paragraph": "{{{consent.page.how.long.we.keep.info.content}}}"
+        }
+      ]
+    },
+    {
+      "id": "automated_decisions",
+      "title": "{{{consent.page.automated.decisions.title}}}",
+      "description": "{{{consent.page.automated.decisions.desc}}}",
+      "contents": [
+
+      ]
+    },
+    {
+      "id": "how_we_transfer_your_data_internationally",
+      "title": "{{{consent.page.international.data.transfers.title}}}",
+      "description": "{{{consent.page.international.data.transfers.desc}}}",
+      "contents": [
+        {
+          "paragraph": "{{{consent.page.international.data.transfers.content}}}"
+        }
+      ]
+    },
+    {
+      "id": "your_rights",
+      "title": "{{{consent.page.your.rights.title}}}",
+      "description": "{{{consent.page.your.rights.desc}}}",
+      "contents": [
+        {
+          "paragraph": "{{{consent.page.your.rights.content.p1}}}"
+        },
+        {
+          "paragraph": "{{{consent.page.your.rights.content.p2}}}"
+        }
+      ]
+    }
+  ],
+  "ctaPositive": "{{{consent.page.continue3.button}}}",
+  "footer": [
+    {
+      "paragraph": "{{{consent.page.see.more}}}",
+      "position": "BELOW_CTA"
+    },
+    {
+      "paragraph": "{{{consent.page.after.sections}}}",
+      "align": "left"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+project_identifier: tw-identity-service
+files:
+  - source: /src/translations/messages.properties
+    translation: /src/translations/%two_letters_code%_%original_file_name%
